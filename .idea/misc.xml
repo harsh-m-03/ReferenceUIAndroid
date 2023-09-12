@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/button_bg.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/circle_item_desc.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/circle_shape.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/circle_shape_nav.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/fast_scroll_thumb.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/item_bg.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/item_selector.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/nav_bar_colors.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/round_corner.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/drawable/round_corners_for_cart_images.xml" value="0.136" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/activity_item_details.xml" value="0.1796875" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/activity_navigation.xml" value="0.3333333333333333" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/fragment_cart.xml" value="0.16666666666666666" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/fragment_navigation.xml" value="0.1796875" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/fragment_store.xml" value="0.1796875" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/layout_home_page_items.xml" value="0.3333333333333333" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/layout_my_cart.xml" value="0.22" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/layout_will_buy.xml" value="0.4466666666666667" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/layout/show_item_page.xml" value="0.1796875" />
+        <entry key="..\:/Codes/Android Projects/ShoppingApp/app/src/main/res/menu/item_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3333333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
